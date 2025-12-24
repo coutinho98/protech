@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import videoChamada from '../assets/videos/eng.mov';
+import videoChamada from '../assets/videos/eng.mp4';
 import InstructorProfile from './InstructorProfile';
 //test
 
