@@ -55,8 +55,7 @@ const Home = () => {
                                 className="w-full h-full object-cover"
                                 controls
                             >
-                                <source src={videoChamada} type="video/mp4" />
-                                <source src={videoChamada} type="video/quicktime" />
+                                <source src="/videos/eng.mov" type="video/mp4" />
                                 Your browser does not support videos.
                             </video>
                         </div>
