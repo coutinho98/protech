@@ -18,7 +18,6 @@ const Cta = () => {
 
             <section className="relative z-10 w-full max-w-7xl mx-auto px-6 pt-20 pb-20">
                 <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-12">
-
                     <div className="group bg-zinc-900/40 backdrop-blur-md  p-8 rounded-xl ">
                         <div className="mb-7 inline-block text-red-500 ">
                             <Infinity size={28} />

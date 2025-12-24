@@ -15,7 +15,7 @@ const Footer = () => {
                         <img
                             src={logo}
                             alt="BJJPro Masterclass"
-                            className="h-10 w-auto mb-6 mr-25 "
+                            className="h-14 w-auto mb-6 mr-25 "
                         />
                         <p className="text-zinc-500 text-xs leading-relaxed uppercase tracking-widest font-medium">
                             The definitive technical system for NoGi grappling. Control, efficiency, and high-performance concepts for elite competitors.

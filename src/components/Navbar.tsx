@@ -61,7 +61,7 @@ const Navbar = () => {
                     <img
                         src={logo}
                         alt="BJJPro Masterclass"
-                        className="h-8 w-auto cursor-pointer hover:opacity-80 transition-opacity"
+                        className="h-15 w-auto cursor-pointer hover:opacity-80 transition-opacity"
                         onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
                     />
                 </div>
